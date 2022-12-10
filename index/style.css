@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: "space grotesk", Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #232323;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  -webkit-box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.32);
+  box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.32);
+  margin-bottom: 20px;
+}
+
+img {
+  height: 20px;
+  margin: 10px;
+}
+
+#itens {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.product {
+  background-color: #f2f2f2;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  height: 15rem;
+  width: 28rem;
+  font-size: 15px;
+  color: #343f4b;
+  font-weight: 500;
+  line-height: 25px;
+  padding: 15px;
+}
+
+#page_title {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  color: #ffff;
+  background-color: #ff8d00;
+  height: 50px;
+  width: 300px;
+  border-radius: 20px;
+  margin: auto;
+  padding: 10px 20px 10px 20px;
+}

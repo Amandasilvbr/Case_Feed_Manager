@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<produtos>
+    <item>
+       <id>198345</id>
+       <title>"Calca leging convencional"</title>
+       <price>39.00</price>
+       <link>"www.loja.com.br/p/calca-legging-simples"</link>
+       <image_link>"www.loja.com.br/imagens/calca-legging-simples.jpg"</image_link>
+       <product_type>"Moda > Calças"</product_type>
+    </item>
+    <item>
+       <id>561234</id>
+       <title>"Bermuda jeans"</title>
+       <price>41.00</price>
+       <link>"www.loja.com.br/p/bermuda-jeans"</link>
+       <image_link>"www.loja.com.br/imagens/bermuda-jeans.jpg"</image_link>
+       <product_type>"Moda > Calças"</product_type>
+    </item>
+    <item>
+       <id>6631234</id>
+       <title>"Vestido Cami sólido"</title>
+       <price>55.00</price>
+       <link>"www.loja.com.br/p/vestido-cami-solido"</link>
+       <image_link>"www.loja.com.br/imagens/vestido-cami-solido.jpg"</image_link>
+       <product_type>"Moda > Roupas"</product_type>
+    </item>
+    <item>
+       <id>09211123</id>
+       <title>"Cinto de fivela quadrada"</title>
+       <price>15.00</price>
+       <link>"www.loja.com.br/p/cinto-fivela-quadrada"</link>
+       <image_link>"www.loja.com.br/imagens/cinto-fivela-quadrada.jpg"</image_link>
+       <product_type>"Moda > Acessórios"</product_type>
+    </item>
+    <item>
+       <id>099243</id>
+       <title>"Chinelo Slide"</title>
+       <price>29.00</price>
+       <link>"www.loja.com.br/p/chinelo-slide"</link>
+       <image_link>"www.loja.com.br/imagens/chinelo-slide.jpg"</image_link>
+       <product_type>"Moda > Calçados"</product_type>
+    </item>
+    <item>
+       <id>724546</id>
+       <title>"Sandálias deslizantes"</title>
+       <price>59.00</price>
+       <link>"www.loja.com.br/p/sandalias-deslizantes"</link>
+       <image_link>"www.loja.com.br/imagens/sandalias-deslizantes.jpg"</image_link>
+       <product_type>"Moda > Calçados"</product_type>
+    </item>
+    <item>
+       <id>351134</id>
+       <title>"Tênis de corrida"</title>
+       <price>149.40</price>
+       <link>"www.loja.com.br/p/tenis-de-corrida"</link>
+       <image_link>"www.loja.com.br/imagens/tenis-de-corrida.jpg"</image_link>
+       <product_type>"Moda > Calçados"</product_type>
+    </item>
+    <item>
+       <id>939134</id>
+       <title>"Jaqueta de couro"</title>
+       <price>120.00</price>
+       <link>"www.loja.com.br/p/jaqueta-couro"</link>
+       <image_link>"www.loja.com.br/imagens/calca-legging-simples.mp4"</image_link>
+       <product_type>"Moda > Casacos"</product_type>
+    </item>
+    <item>
+       <id>564363</id>
+       <title>"Gorro bordado minimalista"</title>
+       <price>59.90</price>
+       <link>"www.loja.com.br/p/gorro-bordado-minimalista"</link>
+       <image_link>"www.loja.com.br/imagens</image_link>gorro-bordado-minimalista.docx",
+       <product_type>"Moda > Acessórios"</product_type>
+    </item>
+    <item>
+       <id>234123</id>
+       <title>"oculos de sol"</title>
+       <price>69.90</price>
+       <link>"www.loja.com.br/p/oculos-sol-unissex"</link>
+       <image_link>"www.loja.com.br/imagens/oculos-sol-unissex.jpg"</image_link>
+       <product_type>"Moda > Acessórios"</product_type>
+    </item>
+</produtos>
