@@ -1,4 +1,4 @@
-let url_dados = "/dados/feed_maneger.xml";
+let url_dados = "/dados/feed_manager.xml";
 
 // Solicitando através do jquery as informações do arquivo XML 
 
